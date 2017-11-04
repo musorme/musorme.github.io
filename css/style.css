@@ -15,7 +15,7 @@ a {
 }
 
 .wrapper {
-  background-image: url("../img/first.png");
+  background-color: rgb(0, 0, 0);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
