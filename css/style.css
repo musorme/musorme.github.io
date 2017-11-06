@@ -15,6 +15,7 @@ a {
 }
 
 .wrapper {
+  filter: blur(2px);
   background-color: rgb(0, 0, 0);
   background-repeat: no-repeat;
   background-position: center center;
