@@ -31,3 +31,8 @@ a {
   z-index: 200;
   color: white;
 }
+
+.text-2 {
+  margin-top: 60px;
+  font-size: 38px;
+}
