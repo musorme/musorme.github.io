@@ -34,35 +34,3 @@ a {
   font-size: 41px;
   letter-spacing: 1px;
 }
-
-.text-2 {
-  letter-spacing: 6px;
-}
-
-.autor {
-  margin: 0 auto;
-  align-items: center;
-}
-
-.name {
-  line-height: 40px;
-  text-align: center;
-  filter: blur(1.3px);
-  letter-spacing: 1px;
-}
-
-a:hover {
-    color: #008B8B;
-}
-
-.line {
-  width: 100%;
-  height: 7px;
-  background-color: white;
-}
-
-.balance {
-  text-align: center;
-  font-size: 33px;
-  letter-spacing: 1px;
-}
